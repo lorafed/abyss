@@ -1,4 +1,4 @@
-# Abyss Client - The Ultimate Minecraft DLL Injection Tool
+# Abyss Client - The Ultimate Modded Client
 
 _Abyss Client_ is a powerful Minecraft hacked client delivered as a DLL injection tool. Designed to work with popular launchers such as **Badlion** and **Lunar**, Abyss Client packs an extensive suite of features—from ESP and autoclicker to advanced combat and movement mods. **Please note:** DLL injection can trigger anti-cheat measures and may lead to account bans. Use responsibly and at your own risk.
 
